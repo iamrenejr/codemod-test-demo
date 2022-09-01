@@ -16,4 +16,4 @@ The file structure follows the guidelines outlined in the [jscodeshift repo](htt
 In the command line, do the following steps:
 
 1. Run: `npm i`
-2. Run: `npx jest`
+2. Run: `npx jest --coverage` or `npm t`
